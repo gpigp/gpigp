@@ -1,11 +1,15 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=KIM%20TAEHYUN%20🌱&fontSize=40&fontColor=392f31)  
+
+<p>
   
 ![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=vue)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogus505)](https://solved.ac/rlaxogus505)
   
-## ✨ Skills ✨  
+</p>
+  
+## 🛠 Skills 🛠  
   
 ### Languages
 
