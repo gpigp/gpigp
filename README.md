@@ -4,7 +4,7 @@
 
 ![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=dracula)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=rlaxogus505)](https://solved.ac/rlaxogus505)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogus505)](https://solved.ac/rlaxogus505)
 
 # Skills
 ### Languages
