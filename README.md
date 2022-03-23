@@ -1,6 +1,4 @@
-# KIM TAEHYUN ✨
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeAuto&height=200&section=header&text=KIM%20TAEHYUN&fontSize=50)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgpigp&count_bg=%231E646E&title_bg=%23023459&icon=&icon_color=%23E7E7E7&title=2DAY&edge_flat=true)](https://github.com/gpigp)
 
