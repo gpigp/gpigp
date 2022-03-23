@@ -4,8 +4,10 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlaxogus505)](https://solved.ac/rlaxogus505)
 
+
+|![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=radical)
+======
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpigp&layout=compact)](https://github.com/gpigp)
-![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=radical)
 
 # Skills
 ### Languages
