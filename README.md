@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgpigp&count_bg=%231D6A96&title_bg=%2385B8CB&icon=bilibili.svg&icon_color=%23283B42&title=2DAY&edge_flat=true)](https://github.com/gpigp)
 
-![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=dracula)
+![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=radical)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogus505)](https://solved.ac/rlaxogus505)
 
