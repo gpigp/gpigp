@@ -1,7 +1,9 @@
-# 김태현 😄
+#<center> 김태현 😄</center>
 
-
+<center>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgpigp&count_bg=%231E646E&title_bg=%23023459&icon=&icon_color=%23E7E7E7&title=2DAY&edge_flat=true)](https://github.com/gpigp)
+</center>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=rlaxogus505)](https://solved.ac/rlaxogus505)
   
