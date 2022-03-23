@@ -5,7 +5,7 @@
 <div>
   
 ![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=vue)
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogus505)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaxogus505)](https://solved.ac/rlaxogus505/)
   
 </div>
   
