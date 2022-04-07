@@ -6,6 +6,9 @@
 
 ### Languages
 <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C++&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" height="27">
 
 ### Tools
 <div>
