@@ -35,7 +35,7 @@ jobs:
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
-        github_token: ${{ secrets.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 }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}
     - name: Commit README
       run: |
