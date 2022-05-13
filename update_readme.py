@@ -22,7 +22,7 @@ for idx, feed in enumerate(url_feed['entries']):
     else:
         day_ = str(feed_date.tm_mday)
         
-    latest_list += f"#### |[▪  {feed_date.tm_year}.{mon_}.{day_} - {feed['title']}]({feed['link']})| <br>\n"
+    latest_list += f"#### | [▪  {feed_date.tm_year}.{mon_}.{day_} - {feed['title']}]({feed['link']}) | <br>\n"
 
 markdown_1 = """[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=KIM%20TAEHYUN%20🌱&fontSize=40&fontColor=392f31)](https://gpigp.github.io/taehyun)
 
