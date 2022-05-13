@@ -39,4 +39,13 @@ jobs:
         pytest
     - name: Update README
       run: |
-        python update_readme.py  
+        python update_readme.py
+    - name: Commit README
+      run: |
+        git pull
+        git add .
+        git diff
+        git config --local user.email "rlaxogus505@naver.com"
+        git config --local user.name "KIM TAEHYUN"
+        git commit -m "Update README.md"
+        git push
