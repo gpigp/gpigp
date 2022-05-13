@@ -22,16 +22,17 @@ for idx, feed in enumerate(url_feed['entries']):
     else:
         day_ = str(feed_date.tm_mday)
         
-    latest_list += '<a href="' + feed['link'] + '">' + str(feed_date.tm_year) + '.' + mon_ + '.' + day_ + '\t' + feed['title'] + '</a><br>\n'
+    latest_list += '<a href="' + feed['link'] + '">' + str(feed_date.tm_year) + '.' + mon_ + '.' + day_ + '\t\t' + feed['title'] + '</a><br>\n'
 
 markdown_1 = """[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=KIM%20TAEHYUN%20🌱&fontSize=40&fontColor=392f31)](https://gpigp.github.io/taehyun)
 
 [![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=vue)](https://github.com/gpigp)
 
-## 📋Recent Blog Post<br>```html
+## 📋Recent Blog Post<br>
+```html
 """
 
-markdown_2 = """```
+markdown_2 = """``` 
 ## 🛠 Skills 🛠  
 
 ### Languages
