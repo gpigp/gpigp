@@ -2,12 +2,13 @@
 
 [![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=vue)](https://github.com/gpigp)
 
-## 📋Recent Blog Post<br>
- > ● [2022.05.10 - NLP 공부](https://gpigp.github.io/taehyun/2022-05-11-NLP-pytorch/)<br>
- > ● [2022.04.27 - Project003](https://gpigp.github.io/taehyun/2022-04-28-project003/)<br>
- > ● [2021.10.30 - Project002](https://gpigp.github.io/taehyun/2021-10-31-project002/)<br>
- > ● [2021.07.06 - Paper Review 001](https://gpigp.github.io/taehyun/2021-07-07-paper-review/)<br>
- > ● [2021.06.21 - Project001](https://gpigp.github.io/taehyun/2021-06-22-project001/)<br>
+## 📋Recent Blog Post<br>```html
+<a href="https://gpigp.github.io/taehyun/2022-05-11-NLP-pytorch/">2022.05.10	NLP 공부</a><br>
+<a href="https://gpigp.github.io/taehyun/2022-04-28-project003/">2022.04.27	Project003</a><br>
+<a href="https://gpigp.github.io/taehyun/2021-10-31-project002/">2021.10.30	Project002</a><br>
+<a href="https://gpigp.github.io/taehyun/2021-07-07-paper-review/">2021.07.06	Paper Review 001</a><br>
+<a href="https://gpigp.github.io/taehyun/2021-06-22-project001/">2021.06.21	Project001</a><br>
+```
 ## 🛠 Skills 🛠  
 
 ### Languages
