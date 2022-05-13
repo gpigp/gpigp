@@ -32,6 +32,11 @@ jobs:
     - name: Update README
       run: |
         python update_readme.py
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.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 }}
+        branch: ${{ github.ref }}
     - name: Commit README
       run: |
         git pull
@@ -41,8 +46,3 @@ jobs:
         git config --local user.name "KIM TAEHYUN"
         git commit -m "Update README.md"
         git push
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.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 }}
-        branch: ${{ github.ref }}
