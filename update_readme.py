@@ -29,10 +29,10 @@ markdown_1 = """[![header](https://capsule-render.vercel.app/api?type=waving&col
 [![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=vue)](https://github.com/gpigp)
 
 ## 📋Recent Blog Post<br>
-```html
+<pre>
 """
 
-markdown_2 = """``` 
+markdown_2 = """</pre> 
 ## 🛠 Skills 🛠  
 
 ### Languages
