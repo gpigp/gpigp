@@ -15,8 +15,12 @@ for idx, feed in enumerate(url_feed['entries']):
     
     if feed_date.tm_mon < 10:
         mon_ = str(feed_date.tm_mon).zfill(2)
+    else :
+        mon_ = str(feed_date.tm_mon)
     if feed_date.tm_mday < 10:
         day_ = str(feed_date.tm_mday).zfill(2)
+    else:
+        mon_ = str(feed_date.tm_mday)
         
     latest_list += f"##### [    ▪{feed_date.tm_year}.{mon_}.{day_} - {feed['title']}]({feed['link']}) <br>\n"
 
