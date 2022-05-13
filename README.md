@@ -3,13 +3,11 @@
 [![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=vue)](https://github.com/gpigp)
 
 ## 📋Recent Blog Post<br>
-```
- * [2022.05.10 - NLP 공부](https://gpigp.github.io/taehyun/2022-05-11-NLP-pytorch/)<br>
- * [2022.04.27 - Project003](https://gpigp.github.io/taehyun/2022-04-28-project003/)<br>
- * [2021.10.30 - Project002](https://gpigp.github.io/taehyun/2021-10-31-project002/)<br>
- * [2021.07.06 - Paper Review 001](https://gpigp.github.io/taehyun/2021-07-07-paper-review/)<br>
- * [2021.06.21 - Project001](https://gpigp.github.io/taehyun/2021-06-22-project001/)<br>
-```
+ > ● [2022.05.10 - NLP 공부](https://gpigp.github.io/taehyun/2022-05-11-NLP-pytorch/)<br>
+ > ● [2022.04.27 - Project003](https://gpigp.github.io/taehyun/2022-04-28-project003/)<br>
+ > ● [2021.10.30 - Project002](https://gpigp.github.io/taehyun/2021-10-31-project002/)<br>
+ > ● [2021.07.06 - Paper Review 001](https://gpigp.github.io/taehyun/2021-07-07-paper-review/)<br>
+ > ● [2021.06.21 - Project001](https://gpigp.github.io/taehyun/2021-06-22-project001/)<br>
 ## 🛠 Skills 🛠  
 
 ### Languages
