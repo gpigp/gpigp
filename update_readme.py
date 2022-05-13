@@ -8,7 +8,8 @@ latest_list  = ""
 for idx, feed in enumerate(url_feed['entries']):
     if idx > MAX_POST_NUM:
         break
-    latest_list += f"[▪{feed['title']}]({feed['link']}) <br>\n"
+    feed_date = feed['published_parsed']
+    latest_list += f"[    ▪{feed[feed_date.tm__year]}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
 
 markdown_1 = """[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=KIM%20TAEHYUN%20🌱&fontSize=40&fontColor=392f31)](https://gpigp.github.io/taehyun)
 
