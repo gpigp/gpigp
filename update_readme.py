@@ -9,10 +9,10 @@ for idx, feed in enumerate(url_feed['entries']):
     if idx > MAX_POST_NUM:
         break
     feed_date = feed['published_parsed']
-    if feed_date.tm_mon < "10":
-        feed_date.tm_mon += "0"
-    if feed_date.tm_mday < "10":
-        feed_date.tm_mday += "0"
+    if feed_date.tm_mon < 10:
+        str(feed_date.tm_mon).zfill(2)
+    if feed_date.tm_mday < 10:
+        str(feed_date.tm_mday).zfill(2)
         
     latest_list += f"### [    ▪{feed_date.tm_year}.{feed_date.tm_mon}.{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
 
