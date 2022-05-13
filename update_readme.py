@@ -10,11 +10,11 @@ for idx, feed in enumerate(url_feed['entries']):
         break
     feed_date = feed['published_parsed']
     if feed_date.tm_mon < 10:
-        str(feed_date.tm_mon).zfill(2)
+        feed_date.tm_mon = str(feed_date.tm_mon).zfill(2)
     if feed_date.tm_mday < 10:
-        str(feed_date.tm_mday).zfill(2)
+        feed_date.tm_mday = str(feed_date.tm_mday).zfill(2)
         
-    latest_list += f"### [    ▪{feed_date.tm_year}.{feed_date.tm_mon}.{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
+    latest_list += f"##### [    ▪{feed_date.tm_year}.{feed_date.tm_mon}.{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
 
 markdown_1 = """[![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=KIM%20TAEHYUN%20🌱&fontSize=40&fontColor=392f31)](https://gpigp.github.io/taehyun)
 
