@@ -41,3 +41,8 @@ jobs:
         git config --local user.name "KIM TAEHYUN"
         git commit -m "Update README.md"
         git push
+    - name: Push changes
+      uses: ad-m/github-push-action@main
+      with:
+        github_token: ${{ secrets.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 }}
+        branch: ${{ github.ref }}
