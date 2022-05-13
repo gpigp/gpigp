@@ -1,7 +1,10 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=KIM%20TAEHYUN%20🌱&fontSize=40&fontColor=392f31)](https://gpigp.github.io/taehyun)
 
-[![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=vue)](https://github.com/gpigp)
-  
+[![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=vue)](https://github.com/gpigp)[NLP 공부](https://gpigp.github.io/taehyun/2022-05-11-NLP-pytorch/) <br>
+[Project003](https://gpigp.github.io/taehyun/2022-04-28-project003/) <br>
+[Project002](https://gpigp.github.io/taehyun/2021-10-31-project002/) <br>
+[Paper Review 001](https://gpigp.github.io/taehyun/2021-07-07-paper-review/) <br>
+[Project001](https://gpigp.github.io/taehyun/2021-06-22-project001/) <br>
 ## 🛠 Skills 🛠  
 
 ### Languages
