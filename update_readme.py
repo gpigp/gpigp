@@ -11,14 +11,14 @@ for idx, feed in enumerate(url_feed['entries']):
     latest_list += f"[{feed['title']}]({feed['link']}) <br>\n"
     
 markdown_1 = 
-"""
+'
 [![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=KIM%20TAEHYUN%20🌱&fontSize=40&fontColor=392f31)](https://gpigp.github.io/taehyun)
 
 [![TAEHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpigp&show_icons=true&theme=vue)](https://github.com/gpigp)
-"""
+'
 
 markdown_2 = 
-"""
+'
 ## 🛠 Skills 🛠  
 
 ### Languages
@@ -40,7 +40,7 @@ markdown_2 =
 <hr>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgpigp&count_bg=%231D6A96&title_bg=%2385B8CB&icon=bilibili.svg&icon_color=%23283B42&title=2DAY&edge_flat=true)](https://hits.seeyoufarm.com)
-"""
+'
 
 readme_text = f"{markdown_1}{latest_list}{markdown_2}"
 
