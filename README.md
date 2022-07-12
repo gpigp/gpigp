@@ -4,6 +4,7 @@
 
 ## 📋 Recent Blog Post<br>
 <pre>
+<a href="https://gpigp.github.io/taehyun/2022-07-10-LG-Aimers/"> 👉 2022.07.09	LG Aimers</a>
 <a href="https://gpigp.github.io/taehyun/2022-05-11-NLP-pytorch/"> 👉 2022.05.10	NLP 공부</a>
 <a href="https://gpigp.github.io/taehyun/2022-04-28-project003/"> 👉 2022.04.27	Project003</a>
 <a href="https://gpigp.github.io/taehyun/2021-10-31-project002/"> 👉 2021.10.30	Project002</a>
