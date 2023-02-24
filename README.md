@@ -10,20 +10,29 @@
 <a href="https://gpigp.github.io/taehyun/2021-06-22-project001/"> 👉 2021.06.21	Project001</a>
 </pre> 
 
-### Languages
+### Learned
 <div>
-<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C%2B%2B&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white" height="27">
-</div>
-  
-### Tools
-<div>
+<img src="https://img.shields.io/badge/Apache Kafka-231F20.svg?&style=flat-square&logo=Apache Kafka&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/GitHub-181717.svg?&style=flat-square&logo=GitHub&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=PyTorch&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/C++-00599C.svg?&style=flat-square&logo=C%2B%2B&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/ONNX-005CED.svg?&style=flat-square&logo=ONNX&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white" height="27">
+</div>
+
+### Study
+<div>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat-square&logo=Spring Boot&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat-square&logo=Amazon AWS&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat-square&logo=PostgreSQL&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=flat-square&logo=Bitbucket&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Next.js-000000.svg?&style=flat-square&logo=Next.js&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat-square&logo=Jenkins&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white" height="27">
+<img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat-square&logo=Jira&logoColor=white" height="27">
 </div>
 
 <hr>
