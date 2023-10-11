@@ -25,14 +25,9 @@
 ### Study
 <div>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=flat-square&logo=Spring Boot&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat-square&logo=Amazon AWS&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=flat-square&logo=PostgreSQL&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/Bitbucket-0052CC.svg?&style=flat-square&logo=Bitbucket&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/Next.js-000000.svg?&style=flat-square&logo=Next.js&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=flat-square&logo=Jenkins&logoColor=white" height="27">
 <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white" height="27">
-<img src="https://img.shields.io/badge/Jira-0052CC.svg?&style=flat-square&logo=Jira&logoColor=white" height="27">
 </div>
 
 <hr>
